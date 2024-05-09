@@ -22,7 +22,7 @@ This project is a simple VueJs application for managing products and categories 
 
 2. Navigate to the project directory:
    ```bash
-   cd 
+   cd VueJs-E-commerce-Project
    ```
 
   
