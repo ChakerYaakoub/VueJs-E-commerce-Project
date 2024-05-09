@@ -16,7 +16,7 @@ This project is a simple VueJs application for managing products and categories 
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url> 
+   git clone https://github.com/ChakerYaakoub/VueJs-E-commerce-Project 
    ```
 
 
